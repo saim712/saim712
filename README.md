@@ -5,7 +5,7 @@
 
 <!-- Contact Badges -->
 <div align="center" style="margin: 20px 0;">
-  <a href="https://saimsattiportfolio.netlify.app/" target="_blank">
+  <a href="https://saimortfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/saim-rauf-satti" target="_blank">
@@ -98,7 +98,7 @@
 <div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
   
   <!-- Portfolio Button -->
-  <a href="https://saimsattiportfolio.netlify.app/" target="_blank">
+  <a href="https://saimortfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/👨‍💻_Visit_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" alt="Portfolio"/>
   </a>
   
