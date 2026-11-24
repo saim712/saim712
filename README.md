@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6C37&center=true&vCenter=true&width=700&lines=Hello+World+👋;I'm+Saim+Rauf+Satti;MERN+Stack+Developer;Real-Time+Systems+Architect;AWS+Cloud+Specialist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6C37&center=true&vCenter=true&width=700&lines=Hello+World+👋;I'm+Saim+Rauf+Satti;MERN+Stack+Developer)
 
 <!-- Contact Badges -->
 <div align="center" style="margin: 20px 0;">
